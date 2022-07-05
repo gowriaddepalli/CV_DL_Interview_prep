@@ -9,3 +9,4 @@
 - Deeplearning.ai
 - Deep learning Yann Le cunn
 - ML Interview books (khang pham)
+- Revise Pytorch.
